@@ -18,7 +18,7 @@ fn main() {
         stdin.lock().read_line(&mut input).unwrap();
         let input = input.trim();
 
-        // Separar el comando de los argumentos
+
         let partes: Vec<&str> = input.splitn(3, ' ').collect();
         let comando = partes[0];
 
@@ -51,7 +51,7 @@ fn main() {
             }
 
             "" => {
-                // línea vacía, ignorar
+                
             }
 
             _ => {
