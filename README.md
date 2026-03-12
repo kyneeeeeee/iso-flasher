@@ -4,7 +4,7 @@ Programa para flashear ISOs en USBs desde la terminal.
 
 ## Instalación
 
-git clone https://github.com/tu-usuario/iso-flasher
+git clone https://github.com/kyneeeeeee/iso-flasher
 
 cd iso-flasher
 
